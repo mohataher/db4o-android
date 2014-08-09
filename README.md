@@ -6,7 +6,10 @@ http://stackoverflow.com/questions/24966062/db4o-on-android-4-4-storing-an-objec
 
 To download the jar file, please download it from bin/ folder.
 
-This JAR file is tested on Android 4.4.4 (Nexus 5)
+This JAR file is tested on:
+- Android 4.4.4 (Nexus 5)
+- Android 4.3 (Samsung Galaxy S III)
+
 Please test it on older versions and notify me.
 
 Disclaimer: all rights reserved for db4o owners. This is just to help other developers.
