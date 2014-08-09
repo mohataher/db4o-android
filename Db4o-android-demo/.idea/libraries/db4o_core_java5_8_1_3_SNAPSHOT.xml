@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="db4o-core-java5-8.1.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/db4o-core-java5-8.1.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
