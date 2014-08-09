@@ -60,10 +60,10 @@ public class MainActivity extends Activity {
                 dao.store(User.randomUser());
 
                 dao.close();
-                String str= "Storing two objects : success";
+                String str= "Storing object: success";
                 mListStr.add(str);
             }catch (Throwable e){
-                String str= "Storing two objects : FAILED !!!!!!!!!!!";
+                String str= "Storing objects: FAILED !!!!!!!!!!!";
                 mListStr.add(str);
                 mListStr.add(e.getMessage());
                 e.printStackTrace();
